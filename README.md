@@ -53,8 +53,8 @@ now you can go to localhost:8083 to access the main page of the demo site.
 
 If you have found a bug or feature request, please report them at the repository issues section.
 
-## License
+## Thank you
 
-MIT
+
 
 
